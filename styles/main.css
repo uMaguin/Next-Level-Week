@@ -1,9 +1,4 @@
-  
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap');
-
-
-:root {
+  :root {
     --title-color: #322153;
     --primary-color: #34cb79;
 }
